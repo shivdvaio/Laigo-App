@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "731842751220",
+    "firebase_url": "https://laigo-28d42.firebaseio.com",
+    "project_id": "laigo-28d42",
+    "storage_bucket": "laigo-28d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731842751220:android:93695bcd326996dd7b0ca1",
+        "android_client_info": {
+          "package_name": "com.example.laigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731842751220-q4b6ucj1gtro4kqkhatuob4dkn8e00m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKuSjB4_m7_t9LWc0agmwwUez5YpSv7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731842751220-q4b6ucj1gtro4kqkhatuob4dkn8e00m0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731842751220-g3fiee8l6m03d5ntlipb1o8d1c3ahn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pedro.laigo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.1+2/
+cloud_firestore_web=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.0+3/
+firebase_analytics=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-6.0.1/
+firebase_analytics_web=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1/
+firebase_core=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.0/
+firebase_core_web=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.0/
+firebase_storage=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-4.0.1/
+path_provider=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.18/
+path_provider_linux=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+4/
+path_provider_windows=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+1/
+sqflite=/Users/shivdvaio/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1+1/
